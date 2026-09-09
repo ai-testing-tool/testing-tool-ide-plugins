@@ -1,0 +1,29 @@
+{
+  "name": "testing-tool-ide-plugins",
+  "displayName": "Testing Tool IDE Plugins",
+  "version": "1.0.0",
+  "description": "Agent skills for AI Testing Tool: manage TestCases and reports via Atlassian Rovo MCP (create, update, query, confirm-before-write). Use for Testing tool MCP and IDE test management.",
+  "author": {
+    "name": "AI Testing Tool contributors"
+  },
+  "homepage": "https://github.com/ai-testing-tool/testing-tool-ide-plugins",
+  "repository": "https://github.com/ai-testing-tool/testing-tool-ide-plugins",
+  "license": "MIT",
+  "keywords": [
+    "testing-tool",
+    "ai-testing-tool",
+    "testcase",
+    "mcp",
+    "atlassian",
+    "rovo-mcp",
+    "jira"
+  ],
+  "category": "developer-tools",
+  "tags": [
+    "testing",
+    "mcp",
+    "jira",
+    "atlassian"
+  ],
+  "skills": "./skills/"
+}
